@@ -9,3 +9,5 @@ hw3 - DDPG-CarRacing-v3.ipynb
 hw4 - DynaQ-FrozenLake-v1.ipynb
 
 hw5 - PPO-Deathmatch-color.ipynb
+
+hw6 - SAC-Deathmatch-gray.ipynb
